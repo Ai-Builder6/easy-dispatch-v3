@@ -1,0 +1,11 @@
+{
+  "name": "Remix Cleaning Service Dispatch Board",
+  "description": "Interactive regional territory dispatch board for 15 Home cleaning technicians with urgency ticket clustering, real-time Routes API multi-stop route optimization, AI dispatch assistant, and daily manifests.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
